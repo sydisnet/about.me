@@ -1,1 +1,6 @@
+title: About me
+logo: /assets/img/logo.png
+description: Following a burnout, I am currently learning how to refactor myself because of the the "Spoon Theory" (autism spectrum disorder). Presently, I love Java and C# programming, building images with Docker and running on Kubernetes.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
