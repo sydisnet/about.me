@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/sydisnet/about.me/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name's Sebastien.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Following a burnout, I am currently learning how to refactor myself because of the the "Spoon Theory" (autism spectrum disorder).
 
-### Markdown
+Presently, I love **Java** and **C#** programming, building images with **Docker** and running on **Kubernetes**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My favorites practices are :
+* **Test-Driven Develoment (TDD)** to validate **Proof-Of-Value** experiments and other prototypes,
+* But above all my preference goes towards **Domain-Driven Design (DDD)** patterns in order to capture features and organize **architecture components**.
 
-```markdown
-Syntax highlighted code block
+I prefer to focus more on product roadmap than project management. That's why I always try to do my best with **agile methodology**, like **Scrum** for pure development stuff or **Kanban** for ops tasks.
 
-# Header 1
-## Header 2
-### Header 3
+I'm really sorry for my English speech because it's a well-known fact French people re awful when they speak another language than theirs :)
 
-- Bulleted
-- List
+I am most skilled in :
+* `Azure` & `OpenStack` Cloud providers,
+* `Docker` & `Kubernetes` (I code my own controllers) container-based solutions,
+* And last but not least, `Jakarta EE` and [MicroProfile](https://microprofile.io) frameworks. [Apache TomEE](https://tomee.apache.org/) and [Quarkus](https://quarkus.io/) are my two favorites runtimes because of their simplicity (I love **KISS** solutions, not only the hard-rock band :)).
+* More recently, I (re)discovered the power of C# and more specifically [.NET Core](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture) ecosystem for **Microservices**.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Projects
 
-[Link](url) and ![Image](src)
-```
+Coming soon...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sydisnet/about.me/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Coming soon...
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Education
+
+Coming soon...
+
+
+### A Little More About Me
+
+Coming soon...
